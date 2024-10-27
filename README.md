@@ -4,7 +4,7 @@
 
 ## Overview
 
-The **PDF-ingestion-QnA-App** is a powerful application that allows users to upload PDF documents and ask questions based on the content of those documents. Leveraging advanced language models and retrieval-augmented generation techniques, this application provides concise and accurate answers from the uploaded PDFs.
+The **PDF-ingestion-QnA-App** based on RAG(Retrieval-augmented generation) is a powerful application that allows users to upload PDF documents and ask questions based on the content of those documents. Leveraging advanced language models and retrieval-augmented generation techniques, this application provides concise and accurate answers from the uploaded PDFs.
 
 ![Screenshot](./img/Screenshot.png)
 
