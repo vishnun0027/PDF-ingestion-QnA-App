@@ -31,8 +31,8 @@ To get started with the PDF Q&A System, follow these steps:
 
 1. **Clone the repository**:
    ```bash
-      git clone https://github.com/vishnun0027/PDF-ingestion-QnA-App.git
-      PDF-ingestion-QnA-App
+   git clone https://github.com/vishnun0027/PDF-ingestion-QnA-App.git
+   PDF-ingestion-QnA-App
    ```
 2.Install the required packages:
 ```bash
